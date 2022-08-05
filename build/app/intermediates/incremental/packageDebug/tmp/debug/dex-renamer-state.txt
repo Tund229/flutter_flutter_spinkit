@@ -1,0 +1,4 @@
+#Thu Aug 04 11:26:09 CEST 2022
+base.0=E\:\\Flutter\\flutter_spinkit\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
